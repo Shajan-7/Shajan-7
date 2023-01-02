@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shajan-7
+- 👀 I’m interested in web development
+- 📫 How to reach me https://www.linkedin.com/in/shajanm
