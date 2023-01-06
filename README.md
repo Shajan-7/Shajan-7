@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Shajan-7
+- ❤️ Favourite programming language is JAVA.
 - 👀 I’m interested in web development
 - 📫 How to reach me https://www.linkedin.com/in/shajanm
