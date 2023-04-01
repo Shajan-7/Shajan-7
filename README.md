@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Shajan-7
+- 👋 Hi, I’m M.Shajan
 - ❤️ Favourite programming language is JAVA.
-- 👀 I’m interested in web development
-- 📫 How to reach me https://www.linkedin.com/in/shajanm
+- 👀 I’m interested in back-end web development
+- 📫 Reach me at 
+  -  Mail id: shajanmicheal7@gmail.com
+  -  Linkedin: https://www.linkedin.com/in/shajanm
